@@ -1,5 +1,5 @@
 import React from 'react'
-import Home from './part-1/home'
+import Home from './part-1/Home'
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Select from './part-2/Select';
 
